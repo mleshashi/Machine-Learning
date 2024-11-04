@@ -1,2 +1,2 @@
 # Machine-Learning
- This repository contains a collection of machine learning assignments and projects, covering various algorithms and techniques, including decision trees, neural networks, and logistic regression. Foundational studies and practical exercises in machine learning concepts.
+This repository contains a collection of machine learning assignments and projects that I have completed, covering foundational concepts and algorithms such as decision trees, neural networks, and logistic regression. It also includes hands-on exercises from the Coursera Machine Learning course, where I learned essential techniques and practical applications in machine learning.
